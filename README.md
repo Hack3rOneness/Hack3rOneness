@@ -11,5 +11,5 @@
 - 💬 Ask me about anythings
 - 📫 How to reach me: [Whatsapp - 91 9521638168]
 - 😄 Pronouns: ... *Hack3r Oneness*
-- ⚡ Fun fact: ... Nothing
+- ⚡ Fun fact: ... [Hack3rOneness](https://hack3roneness.github.io/)
 
