@@ -1,17 +1,15 @@
 <a href="https://app.daily.dev/hack3r_oneness"><img src="https://api.daily.dev/devcards/4ea8876f537d4015b6b0250058b543da.png?r=uyw" width="400" alt="SUMIT KUMAR (Sumi_Oneness)'s Dev Card"/></a>
 
 
-<!--
-**Hack3rOneness/Hack3rOneness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Hack3rOneness/Hack3rOneness** a.k.a as ✨ _Sumit Oneness_ ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on *Cyber Domain*
+- 🌱 I’m currently learning *Cyber Threat Intelligence*
+- 👯 I’m looking to collaborate on *My Startup called _Cyber World Organization_
+- 🤔 I’m looking for help with *Interested one may connect me*
+- 💬 Ask me about anythings
+- 📫 How to reach me: [Whatsapp - 91 9521638168]
+- 😄 Pronouns: ... *Hack3r Oneness*
+- ⚡ Fun fact: ... Nothing
+
