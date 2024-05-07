@@ -16,6 +16,4 @@ SUMIT KUMAR (Sumi_Oneness)'s Dev Card:-
 
 My Stat's 
 
-![Hack3rOneness's Stats](https://github-readme-stats.vercel.app/api?username=Hack3rOneness&theme=blue-green&show_icons=true&hide_border=true&count_private=true)
-![Hack3rOneness's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hack3rOneness&theme=blue-green&hide_border=true)
-![Hack3rOneness's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hack3rOneness&theme=blue-green&show_icons=true&hide_border=true&layout=compact)
+![Hack3rOneness's Stats](https://github-readme-stats.vercel.app/api?username=Hack3rOneness&theme=blue-green&show_icons=true&hide_border=true&count_private=true) ![Hack3rOneness's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hack3rOneness&theme=blue-green&hide_border=true) ![Hack3rOneness's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hack3rOneness&theme=blue-green&show_icons=true&hide_border=true&layout=compact)
