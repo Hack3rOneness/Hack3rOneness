@@ -1,7 +1,3 @@
-<a href="https://app.daily.dev/hack3r_oneness"><img src="https://api.daily.dev/devcards/4ea8876f537d4015b6b0250058b543da.png?r=uyw" width="400" alt="SUMIT KUMAR (Sumi_Oneness)'s Dev Card"/></a>
-
-
-
 **Hack3rOneness/Hack3rOneness** a.k.a as ✨ _Sumit Oneness_ ✨
 
 - 🔭 I’m currently working on *Cyber Domain*
@@ -13,3 +9,9 @@
 - 😄 Pronouns: ... *Hack3r Oneness*
 - ⚡ Fun fact: ... [Hack3rOneness](https://hack3roneness.github.io/)
 
+<a href="https://app.daily.dev/hack3r_oneness"><img src="https://api.daily.dev/devcards/4ea8876f537d4015b6b0250058b543da.png?r=uyw" width="200" alt="SUMIT KUMAR (Sumi_Oneness)'s Dev Card"/></a>
+
+
+My Stat's 
+
+![Hack3rOneness's Stats](https://gh-stats-gen.vercel.app/api?username=Hack3rOneness&theme=Blue-Green&show_icons=true&hide_border=true&count_private=true)
