@@ -14,4 +14,4 @@
 
 My Stat's 
 
-![Hack3rOneness's Stats](https://gh-stats-gen.vercel.app/api?username=Hack3rOneness&theme=Blue-Green&show_icons=true&hide_border=true&count_private=true)
+![Hack3rOneness's Stats](https://github-readme-stats.vercel.app/api?username=Hack3rOneness&theme=dark&show_icons=true&hide_border=true&count_private=true)
