@@ -9,6 +9,8 @@
 - 😄 Pronouns: ... *Hack3r Oneness*
 - ⚡ Fun fact: ... [Hack3rOneness](https://hack3roneness.github.io/)
 
+SUMIT KUMAR (Sumi_Oneness)'s Dev Card:- 
+
 <a href="https://app.daily.dev/hack3r_oneness"><img src="https://api.daily.dev/devcards/4ea8876f537d4015b6b0250058b543da.png?r=uyw" width="200" alt="SUMIT KUMAR (Sumi_Oneness)'s Dev Card"/></a>
 
 
